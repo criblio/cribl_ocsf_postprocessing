@@ -38,7 +38,7 @@ AWS Security Lake requires data to be written in parquet format. this means that
 
 Take a look at the PAN pipeline as a reference to build from, this pipeline also includes a validation function to confirm your mapping is correct. If you recieve a failure on the validation, you can leverage (https://www.jsonschemavalidator.net/) to see all schema failures and fix them.
 
-If you need the parquet schemas the are located in the docs folder of this pack, see the github project here: https://github.com/asc-me-cribl/cribl_ocsf_postprocessing/tree/main/docs
+If you need the parquet schemas the are located in the docs folder of this pack, see the github project here: https://github.com/criblio/cribl_ocsf_postprocessing/tree/main/docs
 
 ### Fields You Need To map
 
@@ -76,7 +76,7 @@ not wanting to submit code? thats okay too, send me an email at the address belo
 
 
 ## Contact
-To contact us please email <acain@cribl.io>.
+To contact us please email <tap@cribl.io>.
 
 
 ## License
